@@ -1,6 +1,6 @@
 #include <iostream>
 #include "StringM.h"
-#include "../4-func.h"
+#include "../lab4/4-func.h"
 
 using namespace std;
 
